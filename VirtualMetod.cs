@@ -21,7 +21,7 @@ namespace deneme18_VirtualMetod
         }
         virtual public void Speak()
         {
-            Console.WriteLine("I don't speak.");
+            Console.WriteLine("I don't speak.\n");
         }
 
     }
