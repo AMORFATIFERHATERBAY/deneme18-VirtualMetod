@@ -38,7 +38,7 @@ namespace deneme18_VirtualMetod
         }
         override public void Speak()
         {
-            Console.WriteLine("I'm a cat!\n");
+            Console.WriteLine("I'm a cat! Miyavv miiiyaavv\n");
         }
     }
     class Sheep : Mammal
@@ -54,7 +54,7 @@ namespace deneme18_VirtualMetod
         }
         override public void Speak()
         {
-            Console.WriteLine("I'm a sheep!\n");
+            Console.WriteLine("I'm a sheep! Meeee meeee\n");
         }
     }
 }
