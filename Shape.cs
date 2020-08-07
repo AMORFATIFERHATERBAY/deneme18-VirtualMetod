@@ -36,6 +36,10 @@ namespace deneme18_VirtualMetod
         {
             return Boy * En;
         }
+        //  public static void FindArea(Shape sekil)
+        // {
+        //     Console.WriteLine("The Area of Shape :{0} \n", sekil.Area());
+        // }
 
     }
     class Triangle : Shape
