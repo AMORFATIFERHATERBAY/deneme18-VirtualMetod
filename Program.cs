@@ -23,7 +23,7 @@ namespace deneme18_VirtualMetod
             mammal1.Speak();
 
             Triangle ucgen = new Triangle(5, 6);
-            Shape sekil = new Shape(6, 7);
+            // Shape sekil = new Shape(6, 7);
             Square dortgen = new Square(7, 8);
             // Shape.FindArea(dortgen);
             // Shape.FindArea(ucgen);
@@ -31,7 +31,7 @@ namespace deneme18_VirtualMetod
 
             FindArea(dortgen);
             FindArea(ucgen);
-            FindArea(sekil);
+            // FindArea(sekil);
 
 
 

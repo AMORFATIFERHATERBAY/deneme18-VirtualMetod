@@ -2,7 +2,7 @@
 
 namespace deneme18_VirtualMetod
 {
-    class Shape
+    abstract class Shape
     {
         public double Boy
         {
@@ -19,12 +19,13 @@ namespace deneme18_VirtualMetod
             this.Boy = boy;
             this.En = en;
         }
-        virtual public double Area()
-        {
-            return 0;
-        }
-        
+        // virtual public double Area()
+        // {
+        //     return 0;
+        // }
+        abstract public double Area();
        
+        
     }
     class Square : Shape
     {
