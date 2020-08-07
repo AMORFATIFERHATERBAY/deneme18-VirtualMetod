@@ -2,7 +2,7 @@
 
 namespace deneme18_VirtualMetod
 {
-    class Mammal
+    abstract class Mammal
     {
         public double Height
         {
@@ -19,10 +19,11 @@ namespace deneme18_VirtualMetod
             this.Height = height;
             this.Weight = weight;
         }
-        virtual public void Speak()
-        {
-            Console.WriteLine("I don't speak.\n");
-        }
+        // virtual public void Speak()
+        // {
+        //     Console.WriteLine("I don't speak.\n");
+        // }
+        abstract public void Speak();
 
     }
     class Cat : Mammal
@@ -38,7 +39,7 @@ namespace deneme18_VirtualMetod
         }
         override public void Speak()
         {
-            Console.WriteLine("I'm a cat! Miyavv miiiyaavv\n");
+            Console.WriteLine("\nI'm a cat! Miyavv miiiyaavv");
         }
     }
     class Sheep : Mammal
@@ -54,7 +55,7 @@ namespace deneme18_VirtualMetod
         }
         override public void Speak()
         {
-            Console.WriteLine("I'm a sheep! Meeee meeee\n");
+            Console.WriteLine("\nI'm a sheep! Meeee meeee");
         }
     }
 }
