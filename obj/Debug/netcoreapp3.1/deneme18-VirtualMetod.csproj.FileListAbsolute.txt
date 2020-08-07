@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/deneme18-VirtualMetod/bin/Debug/netcoreapp3.1/deneme18-VirtualMetod.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme18-VirtualMetod/bin/Debug/netcoreapp3.1/deneme18-VirtualMetod.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme18-VirtualMetod/bin/Debug/netcoreapp3.1/deneme18-VirtualMetod.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/deneme18-VirtualMetod/bin/Debug/netcoreapp3.1/deneme18-VirtualMetod.dll
+/Users/amorfati/Desktop/dotnet-deneme/deneme18-VirtualMetod/bin/Debug/netcoreapp3.1/deneme18-VirtualMetod.pdb
+/Users/amorfati/Desktop/dotnet-deneme/deneme18-VirtualMetod/obj/Debug/netcoreapp3.1/deneme18-VirtualMetod.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme18-VirtualMetod/obj/Debug/netcoreapp3.1/deneme18-VirtualMetod.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme18-VirtualMetod/obj/Debug/netcoreapp3.1/deneme18-VirtualMetod.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/deneme18-VirtualMetod/obj/Debug/netcoreapp3.1/deneme18-VirtualMetod.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/deneme18-VirtualMetod/obj/Debug/netcoreapp3.1/deneme18-VirtualMetod.dll
+/Users/amorfati/Desktop/dotnet-deneme/deneme18-VirtualMetod/obj/Debug/netcoreapp3.1/deneme18-VirtualMetod.pdb
+/Users/amorfati/Desktop/dotnet-deneme/deneme18-VirtualMetod/obj/Debug/netcoreapp3.1/deneme18-VirtualMetod.genruntimeconfig.cache

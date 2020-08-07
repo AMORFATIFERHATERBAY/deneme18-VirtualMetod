@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "deneme18-VirtualMetod/1.0.0": {
+        "runtime": {
+          "deneme18-VirtualMetod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "deneme18-VirtualMetod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
